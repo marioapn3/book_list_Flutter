@@ -1,6 +1,6 @@
-# card_list
+# Book List
 
-A new Flutter project.
+This is Flutter Project about Book List and Detail Book using List Data on flutter
 
 ## Getting Started
 
