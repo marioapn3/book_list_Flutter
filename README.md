@@ -1,8 +1,9 @@
 # Book List
 
 This is Flutter Project about Book List and Detail Book using List Data on flutter
-![1 (1)](https://user-images.githubusercontent.com/116018376/226181333-ace52200-b1be-4565-802a-7bceb8cf21bc.png)
-![2 (1)](https://user-images.githubusercontent.com/116018376/226181386-30728d54-64cc-4ac8-9e6c-af2c19cfe702.png)
+![1](https://user-images.githubusercontent.com/116018376/226181522-e6e7f7b5-2321-4f82-bcf7-dd5cb6876fdd.png)
+![2](https://user-images.githubusercontent.com/116018376/226181525-1bcc36ae-e3f4-4976-bdff-2e2c59adc756.png)
+
 
 ##How to instal this example flutter clone project on ur device.
 
